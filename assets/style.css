@@ -397,3 +397,6 @@ input[type=submit] {
 		width: 80%
 	}
 }
+.modal-backdrop.show{
+	opacity: 0.9;
+}
