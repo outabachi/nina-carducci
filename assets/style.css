@@ -274,7 +274,12 @@ input[type=submit] {
 	font-size: 1.75rem;
 	line-height: 1.2;
 }
-
+footer {
+    width: 100%;
+    background-color: #f8f9fa;
+    text-align: center;
+    padding: 20px 0;
+}
 @media all and (max-width:1180px) {
 	.picture {
 		flex: 2
