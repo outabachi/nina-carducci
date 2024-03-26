@@ -270,6 +270,10 @@ input[type=submit] {
 	background-color: #beb45a;
 	padding: .5em 1em
 }
+#h3contact{
+	font-size: 1.75rem;
+	line-height: 1.2;
+}
 
 @media all and (max-width:1180px) {
 	.picture {
