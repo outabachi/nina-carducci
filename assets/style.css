@@ -128,14 +128,13 @@ body {
 	font-size: 30px
 }
 
-.about-me__introduction {
-	font-weight: 800;
-	width: 60%
-}
-
 #about-me p {
 	width: 80%;
 	font-size: 14px
+}
+.about-me__introduction {
+	font-weight: 800;
+	width: 60%; 
 }
 
 .title {
@@ -397,6 +396,7 @@ input[type=submit] {
 		width: 80%
 	}
 }
-.modal-backdrop.show{
+
+.modal-backdrop.show {
 	opacity: 0.9;
 }
