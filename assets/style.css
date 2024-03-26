@@ -128,13 +128,15 @@ body {
 	font-size: 30px
 }
 
-#about-me p {
+.about-me {
 	width: 80%;
 	font-size: 14px
 }
 .about-me__introduction {
-	font-weight: 800;
-	width: 60%; 
+	font-weight:bolder;
+	width: 60%;
+	font-size: 1rem; 
+	line-height: 1.2;
 }
 
 .title {
